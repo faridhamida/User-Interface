@@ -30,6 +30,8 @@ footer, header, hgroup, menu, nav, section {
 }
 body {
 	line-height: 1;
+	
+	
 }
 ol, ul {
 	list-style: none;
@@ -64,3 +66,122 @@ h1, h2, h3, h4, h5 {
 }
 
 /* Your code starts here! */
+.container {
+	width:900px;
+	margin: auto;
+	
+	
+}
+header {
+	margin-top:15px;
+	margin-left:35px;
+	margin-bottom:-180px;
+	
+}
+
+nav {
+	display:inline-block;
+	position: relative;
+	width:100%;
+	margin-top:40px;
+	
+}
+nav a {
+	padding:0px 20px;
+	color:lightgrey;
+	text-decoration:none;
+	
+}
+
+
+.first {
+	display:inline-block;
+	position: relative;
+	left:500px;
+	bottom:150px;
+	
+	
+	
+}
+
+.logo {
+	position: relative;
+	left:640px;
+	top:-25px;
+	
+	
+}
+
+.left h1 {
+	font-size:85px;
+	text-align:center;
+	
+
+	
+}
+
+.left {
+	width:40%;
+	margin:80px;
+	display:inline-block;
+	text-align:center;
+	background-color:white;
+	position: relative;
+	top:250px;
+	
+
+}
+
+.startButton {
+	padding:5px 25px 5px 25px;
+	background:white;
+	border:1px solid black;
+	
+}
+
+.topP {
+	display:inline-block;
+	width:47%;
+	margin-bottom:30px;
+	margin-top:-150px;
+	height:auto;
+}
+
+.bottomP{
+	display:inline-block;
+	width: 32%;
+	padding-right:10px;
+	margin-top:30px;
+	margin-bottom: 30px;
+	
+}
+
+.features {
+	position: relative;
+	right:0px;
+	top:6px;	
+}
+
+.about {
+	position: relative;
+	left:30px;
+	
+	
+}
+
+.borderLine {
+	border-bottom: 1px solid black;
+	margin-top: 5px;
+	margin-bottom: 25px;
+}
+
+.firstBorderLine {
+	border-bottom:1px solid black;
+	margin-bottom: 150px;
+}
+
+.copywrite {
+	margin:50px 0px;
+	text-align:center;
+}
+
